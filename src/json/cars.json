@@ -1,0 +1,342 @@
+[
+  {
+    "num_models": 3,
+    "img_url": "https://www.carlogos.org/car-logos/chrysler-logo-2010.png",
+    "array_images": [
+      "https://www.carlogos.org/car-logos/chrysler-logo-1998.png",
+      "https://www.carlogos.org/car-logos/1928-chrysler-wings-logo.jpg",
+      "https://www.carlogos.org/logo-pictures/chrysler-logo-on-the-front-grille.jpg"
+    ],
+    "max_car_id": 104,
+    "id": 1,
+    "name": "chrysler",
+    "avg_horsepower": 291.3333333333333,
+    "avg_price": 32971.666666666664,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 8,
+    "img_url": "https://www.carlogos.org/car-logos/honda-logo-1700x1150.png",
+    "array_images": [
+      "https://www.carlogos.org/car-logos/chrysler-logo-1998.png",
+      "https://www.carlogos.org/car-logos/1928-chrysler-wings-logo.jpg",
+      "https://www.carlogos.org/logo-pictures/chrysler-logo-on-the-front-grille.jpg"
+    ],
+    "max_car_id": 152,
+    "id": 2,
+    "name": "honda",
+    "avg_horsepower": 190.625,
+    "avg_price": 27965,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 18,
+    "img_url": "https://www.carlogos.org/logo/Mercedes-Benz-logo-2011-1920x1080.png",
+    "array_images": [
+      "https://www.carlogos.org/car-logos/chrysler-logo-1998.png",
+      "https://www.carlogos.org/car-logos/1928-chrysler-wings-logo.jpg",
+      "https://www.carlogos.org/logo-pictures/chrysler-logo-on-the-front-grille.jpg"
+    ],
+    "max_car_id": 270,
+    "id": 3,
+    "name": "mercedes-benz",
+    "avg_horsepower": 333.94444444444446,
+    "avg_price": 80681.94444444444,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 6,
+    "img_url": "https://www.carlogos.org/logo/RAM-logo-2009-1920x1080.png",
+    "array_images": [
+      "https://www.carlogos.org/car-logos/chrysler-logo-1998.png",
+      "https://www.carlogos.org/car-logos/1928-chrysler-wings-logo.jpg",
+      "https://www.carlogos.org/logo-pictures/chrysler-logo-on-the-front-grille.jpg"
+    ],
+    "max_car_id": 307,
+    "id": 4,
+    "name": "ram",
+    "avg_horsepower": 299.8333333333333,
+    "avg_price": 31406.666666666668,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 19,
+    "img_url": "https://www.carlogos.org/car-logos/ford-logo-2017.png",
+    "array_images": [
+      "https://www.carlogos.org/car-logos/chrysler-logo-1998.png",
+      "https://www.carlogos.org/car-logos/1928-chrysler-wings-logo.jpg",
+      "https://www.carlogos.org/logo-pictures/chrysler-logo-on-the-front-grille.jpg"
+    ],
+    "max_car_id": 125,
+    "id": 5,
+    "name": "ford",
+    "avg_horsepower": 281.2631578947368,
+    "avg_price": 34998.68421052631,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 9,
+    "img_url": "https://www.carlogos.org/logo/GMC-logo-2200x600.png",
+    "array_images": [
+      "https://www.carlogos.org/car-logos/chrysler-logo-1998.png",
+      "https://www.carlogos.org/car-logos/1928-chrysler-wings-logo.jpg",
+      "https://www.carlogos.org/logo-pictures/chrysler-logo-on-the-front-grille.jpg"
+    ],
+    "max_car_id": 146,
+    "id": 6,
+    "name": "gmc",
+    "avg_horsepower": 292.3333333333333,
+    "avg_price": 40609.444444444445,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 22,
+    "img_url": "https://www.carlogos.org/car-logos/audi-logo-2016.png",
+    "array_images": [
+      "https://www.carlogos.org/car-logos/chrysler-logo-1998.png",
+      "https://www.carlogos.org/car-logos/1928-chrysler-wings-logo.jpg",
+      "https://www.carlogos.org/logo-pictures/chrysler-logo-on-the-front-grille.jpg"
+    ],
+    "max_car_id": 21,
+    "id": 7,
+    "name": "audi",
+    "avg_horsepower": 340.59090909090907,
+    "avg_price": 66631.81818181818,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 7,
+    "img_url": "https://www.carlogos.org/car-logos/subaru-logo-2003.png",
+    "array_images": [
+      "https://www.carlogos.org/car-logos/chrysler-logo-1998.png",
+      "https://www.carlogos.org/car-logos/1928-chrysler-wings-logo.jpg",
+      "https://www.carlogos.org/logo-pictures/chrysler-logo-on-the-front-grille.jpg"
+    ],
+    "max_car_id": 330,
+    "id": 8,
+    "name": "subaru",
+    "avg_horsepower": 192.14285714285714,
+    "avg_price": 27159.285714285714,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 6,
+    "img_url": "https://www.carlogos.org/logo/Rolls-Royce-logo-2048x2048.png",
+    "array_images": [
+      "https://www.carlogos.org/car-logos/chrysler-logo-1998.png",
+      "https://www.carlogos.org/car-logos/1928-chrysler-wings-logo.jpg",
+      "https://www.carlogos.org/logo-pictures/chrysler-logo-on-the-front-grille.jpg"
+    ],
+    "max_car_id": 315,
+    "id": 9,
+    "name": "rolls-royce",
+    "avg_horsepower": 518.1666666666666,
+    "avg_price": 394858.3333333333,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 8,
+    "img_url": "https://www.carlogos.org/car-logos/porsche-logo-2100x1100.png",
+    "array_images": [
+      "https://www.carlogos.org/car-logos/chrysler-logo-1998.png",
+      "https://www.carlogos.org/car-logos/1928-chrysler-wings-logo.jpg",
+      "https://www.carlogos.org/logo-pictures/chrysler-logo-on-the-front-grille.jpg"
+    ],
+    "max_car_id": 301,
+    "id": 10,
+    "name": "porsche",
+    "avg_horsepower": 475.25,
+    "avg_price": 203787.5,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 31,
+    "img_url": "https://www.carlogos.org/car-logos/bmw-logo-2020-blue-white.png",
+    "array_images": [
+      "https://www.carlogos.org/car-logos/chrysler-logo-1998.png",
+      "https://www.carlogos.org/car-logos/1928-chrysler-wings-logo.jpg",
+      "https://www.carlogos.org/logo-pictures/chrysler-logo-on-the-front-grille.jpg"
+    ],
+    "max_car_id": 64,
+    "id": 11,
+    "name": "bmw",
+    "avg_horsepower": 379.2258064516129,
+    "avg_price": 74501.6129032258,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 7,
+    "img_url": "https://www.carlogos.org/logo/Volvo-logo-2014-1920x1080.png",
+    "array_images": [
+      "https://www.carlogos.org/car-logos/chrysler-logo-1998.png",
+      "https://www.carlogos.org/car-logos/1928-chrysler-wings-logo.jpg",
+      "https://www.carlogos.org/logo-pictures/chrysler-logo-on-the-front-grille.jpg"
+    ],
+    "max_car_id": 371,
+    "id": 12,
+    "name": "volvo",
+    "avg_horsepower": 285.2857142857143,
+    "avg_price": 45967.857142857145,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 19,
+    "img_url": "https://www.carlogos.org/logo/Chevrolet-logo-2013-2560x1440.png",
+    "array_images": [
+      "https://www.carlogos.org/car-logos/chrysler-logo-1998.png",
+      "https://www.carlogos.org/car-logos/1928-chrysler-wings-logo.jpg",
+      "https://www.carlogos.org/logo-pictures/chrysler-logo-on-the-front-grille.jpg"
+    ],
+    "max_car_id": 100,
+    "id": 13,
+    "name": "chevrolet",
+    "avg_horsepower": 250.8421052631579,
+    "avg_price": 33572.36842105263,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 6,
+    "img_url": "https://www.carlogos.org/logo/Land-Rover-logo-2011-1920x1080.png",
+    "array_images": [
+      "https://www.carlogos.org/car-logos/chrysler-logo-1998.png",
+      "https://www.carlogos.org/car-logos/1928-chrysler-wings-logo.jpg",
+      "https://www.carlogos.org/logo-pictures/chrysler-logo-on-the-front-grille.jpg"
+    ],
+    "max_car_id": 206,
+    "id": 14,
+    "name": "land-rover",
+    "avg_horsepower": 304,
+    "avg_price": 60779.166666666664,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 21,
+    "img_url": "https://www.carlogos.org/car-logos/toyota-logo-1989-1400x1200.png",
+    "array_images": [
+      "https://www.carlogos.org/car-logos/chrysler-logo-1998.png",
+      "https://www.carlogos.org/car-logos/1928-chrysler-wings-logo.jpg",
+      "https://www.carlogos.org/logo-pictures/chrysler-logo-on-the-front-grille.jpg"
+    ],
+    "max_car_id": 339,
+    "id": 15,
+    "name": "toyota",
+    "avg_horsepower": 209.23809523809524,
+    "avg_price": 36709.76190476191,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 6,
+    "img_url": "https://www.carlogos.org/car-logos/jeep-logo-1993.png",
+    "array_images": [
+      "https://www.carlogos.org/car-logos/chrysler-logo-1998.png",
+      "https://www.carlogos.org/car-logos/1928-chrysler-wings-logo.jpg",
+      "https://www.carlogos.org/logo-pictures/chrysler-logo-on-the-front-grille.jpg"
+    ],
+    "max_car_id": 187,
+    "id": 16,
+    "name": "jeep",
+    "avg_horsepower": 239.83333333333334,
+    "avg_price": 33440.833333333336,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 14,
+    "img_url": "https://www.carlogos.org/logo/Hyundai-logo-grey-2560x1440.png",
+    "array_images": [
+      "https://www.carlogos.org/car-logos/chrysler-logo-1998.png",
+      "https://www.carlogos.org/car-logos/1928-chrysler-wings-logo.jpg",
+      "https://www.carlogos.org/logo-pictures/chrysler-logo-on-the-front-grille.jpg"
+    ],
+    "max_car_id": 160,
+    "id": 17,
+    "name": "hyundai",
+    "avg_horsepower": 246.5,
+    "avg_price": 32676.428571428572,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 2,
+    "img_url": "https://www.carlogos.org/car-logos/lamborghini-logo-1000x1100.png",
+    "array_images": [
+      "https://www.carlogos.org/car-logos/chrysler-logo-1998.png",
+      "https://www.carlogos.org/car-logos/1928-chrysler-wings-logo.jpg",
+      "https://www.carlogos.org/logo-pictures/chrysler-logo-on-the-front-grille.jpg"
+    ],
+    "max_car_id": 199,
+    "id": 18,
+    "name": "lamborghini",
+    "avg_horsepower": 665,
+    "avg_price": 393025,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 9,
+    "img_url": "https://www.carlogos.org/logo/Kia-logo-2560x1440.png",
+    "max_car_id": 191,
+    "id": 19,
+    "name": "kia",
+    "avg_horsepower": 216.11111111111111,
+    "avg_price": 28725.555555555555,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 4,
+    "img_url": "https://www.carlogos.org/car-logos/scuderia-ferrari-logo-800x1050.png",
+    "max_car_id": 118,
+    "id": 20,
+    "name": "ferrari",
+    "avg_horsepower": 633,
+    "avg_price": 276428,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 19,
+    "img_url": "https://www.carlogos.org/car-logos/nissan-logo-2020-black.png",
+    "max_car_id": 283,
+    "id": 21,
+    "name": "nissan",
+    "avg_horsepower": 251.21052631578948,
+    "avg_price": 36314.73684210526,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 5,
+    "img_url": "https://www.carlogos.org/car-logos/chrysler-logo-2010.png",
+    "max_car_id": 104,
+    "id": 22,
+    "name": "chrysler",
+    "avg_horsepower": 299.3333333333333,
+    "avg_price": 3297551.666666666664,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 6,
+    "img_url": "https://www.carlogos.org/car-logos/honda-logo-1700x1150.png",
+    "max_car_id": 152,
+    "id": 23,
+    "name": "honda",
+    "avg_horsepower": 1950.625,
+    "avg_price": 2794465,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 18,
+    "img_url": "https://www.carlogos.org/logo/Mercedes-Benz-logo-2011-1920x1080.png",
+    "max_car_id": 270,
+    "id": 24,
+    "name": "mercedes-benz",
+    "avg_horsepower": 33446,
+    "avg_price": 806444444,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  },
+  {
+    "num_models": 6,
+    "img_url": "https://www.carlogos.org/logo/RAM-logo-2009-1920x1080.png",
+    "max_car_id": 307,
+    "id": 25,
+    "name": "ram",
+    "avg_horsepower": 29333333333,
+    "avg_price": 314666666668,
+    "description": " car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they "
+  }
+]
